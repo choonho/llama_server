@@ -1,0 +1,8 @@
+*.bin
+*.egg-info
+*.egg
+*.whl
+*.log
+__pycache__
+venv
+
