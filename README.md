@@ -14,7 +14,7 @@ Move ggsm model file to models/7B/ggml-model-q4_0.bin (default MODEL_PATH)
 
 ~~~
 pip3 install llama-cpp-python langchain
-pip3 install fastapi
+pip3 install fastapi uvicorn
 ~~~
 
 # Run Server
