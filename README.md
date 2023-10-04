@@ -13,6 +13,7 @@ Move ggsm model file to models/7B/ggml-model-q4_0.bin (default MODEL_PATH)
 # Installation
 
 ~~~
+pip3 install llama-cpp-python langchain
 pip3 install fastapi
 ~~~
 
